@@ -1,1 +1,1 @@
-worker nodejs log.js
+web: node index.js
