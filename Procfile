@@ -1,1 +1,1 @@
-worker python log.py
+worker nodejs log.js
